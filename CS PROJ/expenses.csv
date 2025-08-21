@@ -1,0 +1,13 @@
+id,date,category,amount,note,userid
+001,2024-12-01,Food,200,Pizza,navs
+002,2024-10-10,Entertainment,700.0,Goat,navs
+003,2022-08-08,Transport,500,Kerla,navs
+006,2025-07-22,Transport,5000,Trip,yooks
+007,2024-11-26,Entertainment,500.0,Amaran,yooks
+008,2024-12-01,Entertainment,700,Party,yoochad
+009,2024-09-09,Food,350,Starbucks,yoochad
+010,2023-04-20,Other,100,Car repair,yoochad
+011,2024-12-01,Other,200,Dental,navs
+012,2024-12-01,Other,400.0,Funds,yooks
+013,2024-12-01,Entertainment,500,Leo,pranow
+014,2024-12-01,Other,600.0,Funds,yooks
